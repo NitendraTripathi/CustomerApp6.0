@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrwrCxJGihhf58TqbK3pasrSQhZiTaqD5xrvR3sW0XnKRtJfNBYWs5pe2QD6keRvr6ml3tsOYz1/xjV5sGO8rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91991\\source\\repos\\CustomerWebApi6.0\\CustomerWebApi6.0\\CustomerWebApi6.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91991\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\91991\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\91991\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\91991\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\91991\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\91991\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
